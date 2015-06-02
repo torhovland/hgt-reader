@@ -1,2 +1,2 @@
 # hgt-reader
-An hgt elevation data reader package for Haskell.
+A Haskell library for reading Digital Elevation Data (DEM) such as SRTM in HGT format.
